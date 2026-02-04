@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\DSA",
+    "\\myproject_flask",
     "\\Python_Problems_Basic"
   ],
-  "SelectedNode": "\\Python_Problems_Basic",
+  "SelectedNode": "\\Python_Problems_Basic\\PrintLinkedList.py",
   "PreviewInSolutionExplorer": false
 }
